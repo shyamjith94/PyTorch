@@ -1,1 +1,1 @@
-# PyTorch
+PyTorch is an open source deep learning platform that provides a seamless path from research prototyping to production deployment. It is rapidly becoming one of the most popular deep learning frameworks for Python. Deep integration into Python allows popular libraries and packages to be used for easily writing neural network layers in Python. # PyTorch
